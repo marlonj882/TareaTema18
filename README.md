@@ -1,18 +1,39 @@
-## Getting Started
+# Tarea Tema 18 Entornos 
+CREA UN REPOSITORIO PÚBLICO EN GITHUB CON LAS SIGUIENTES RAMAS Y SIMULA EL SIGUIENTE FLUJO DE TRABAJO. 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<img src="image.png" alt="Descripción de la imagen" width="600">
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## explicación
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. **Primer paso**  
+    - Creamos un proyecto y lo publicamos en nuestro repositorio
 
-## Dependency Management
+2. **Segundo paso**     
+    - Creamos las ramas necesarias Hotfix, Release, Develop, Feature y Feature 2        
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+3. **Tercer paso**
+    - Hacemos 3 commits en feature 2
+
+4. **Cuarto paso**
+    - Hacemos un commit en develop
+
+5. **Quinto paso**
+    - Hacemos un commit en main y develop
+
+6. **Sexto paso**
+    - Hacemos merge en en los dos con hotfix
+
+7. **Séptimo paso**
+    - Hacemos un commit en main, develop y feature
+
+8. **Octavo paso**
+    - Hacemos un merge de feature en develop
+
+9. **Noveno paso**
+    - Hacemos un commit en develop, feature y release
+
+10. **Décimo paso**
+    - Hacemos un merge de release en develop y main 
