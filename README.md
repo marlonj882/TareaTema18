@@ -37,3 +37,5 @@ CREA UN REPOSITORIO PÚBLICO EN GITHUB CON LAS SIGUIENTES RAMAS Y SIMULA EL SIGU
 
 10. **Décimo paso**
     - Hacemos un merge de release en develop y main 
+
+prueba prueba git practica19 2
